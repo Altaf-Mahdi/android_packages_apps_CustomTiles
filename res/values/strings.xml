@@ -32,4 +32,7 @@
     <!-- Brightness -->
     <string name="brightness_label">Brightness</string>
 
+    <!-- Power menu tile -->
+    <string name="power_menu_label">Power menu</string>
+
 </resources>

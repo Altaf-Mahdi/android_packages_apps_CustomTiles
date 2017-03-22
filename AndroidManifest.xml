@@ -151,6 +151,17 @@
             </intent-filter>
         </service>
 
+        <!-- Power menu tile -->
+        <service
+            android:name=".PowerMenuTile"
+            android:icon="@drawable/ic_power"
+            android:label="@string/power_menu_label"
+            android:permission="android.permission.BIND_QUICK_SETTINGS_TILE">
+            <intent-filter>
+                <action android:name="android.service.quicksettings.action.QS_TILE" />
+            </intent-filter>
+        </service>
+
         <!-- WakeLock Service -->
         <service
             android:name=".WakelockService"
