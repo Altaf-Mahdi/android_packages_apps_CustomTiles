@@ -29,4 +29,7 @@
     <!-- Caffeine -->
     <string name="caffeine_label">Caffeine</string>
 
+    <!-- Brightness -->
+    <string name="brightness_label">Brightness</string>
+
 </resources>
