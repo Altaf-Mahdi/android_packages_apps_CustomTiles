@@ -35,4 +35,9 @@
     <!-- Power menu tile -->
     <string name="power_menu_label">Power menu</string>
 
+    <!-- Screenshot tile -->
+    <string name="screenshot_label">Screenshot</string>
+    <string name="standard_screenshot">Full screenshot</string>
+    <string name="partial_screenshot">Partial screenshot</string>
+
 </resources>
