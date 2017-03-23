@@ -40,4 +40,7 @@
     <string name="standard_screenshot">Full screenshot</string>
     <string name="partial_screenshot">Partial screenshot</string>
 
+    <!-- Expanded desktop tile -->
+    <string name="expanded_desktop_label">Expanded desktop</string>
+
 </resources>
